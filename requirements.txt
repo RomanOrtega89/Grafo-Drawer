@@ -1,0 +1,10 @@
+# Grafo Drawer - Dependencias
+# Universidad Autónoma de Querétaro (UAQ)
+# Facultad de Informática - Servicio Social
+# Desarrollador: Román Ortega Muñoz
+
+# Framework de interfaz gráfica
+PyQt5>=5.15.0
+
+# Biblioteca para análisis de grafos
+networkx>=2.6.0
