@@ -108,10 +108,29 @@ Este proyecto fue desarrollado como parte de las actividades de Servicio Social 
 
 ## 📸 Capturas de Pantalla
 
-> *Nota: Agrega aquí capturas de pantalla de tu aplicación mostrando:*
-> - *Vista principal con un grafo de ejemplo*
-> - *Matriz de adyacencia con heatmap*
-> - *Diferentes modos de interacción*
+### 🖼️ Vista Principal
+<div align="center">
+  <img src="screenshots/main-window.png" alt="Vista principal de Grafo Drawer" width="800"/>
+  <p><em>Interfaz principal con un grafo de ejemplo mostrando nodos, aristas y controles</em></p>
+</div>
+
+### 📊 Matriz de Adyacencia
+<div align="center">
+  <img src="screenshots/matrix-view.png" alt="Matriz de Adyacencia con Heatmap" width="800"/>
+  <p><em>Vista de matriz de adyacencia con visualización de heatmap y estadísticas</em></p>
+</div>
+
+### 🎨 Modo de Dibujo
+<div align="center">
+  <img src="screenshots/drawing-mode.png" alt="Modo de dibujo" width="800"/>
+  <p><em>Modo de dibujo para crear nodos con facilidad</em></p>
+</div>
+
+### ✏️ Modo de Edición
+<div align="center">
+  <img src="screenshots/edit-mode.png" alt="Modo de edición" width="800"/>
+  <p><em>Modo de edición para modificar etiquetas y pesos de nodos y aristas</em></p>
+</div>
 
 ---
 
@@ -633,17 +652,6 @@ Este proyecto fue desarrollado como parte del Servicio Social en la UAQ. Si dese
 3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
-
-### Ideas para Mejoras Futuras
-
-- [ ] Implementar algoritmos de grafos (Dijkstra, Floyd-Warshall, etc.)
-- [ ] Agregar visualización animada de algoritmos
-- [ ] Soporte para grafos no dirigidos
-- [ ] Importación desde formatos estándar (GraphML, GML)
-- [ ] Análisis de conectividad y componentes
-- [ ] Generación automática de grafos (aleatorios, completos, etc.)
-- [ ] Modo de presentación para exposiciones
-- [ ] Temas personalizables
 
 ---
 
